@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: dubbo-consuemr
+server:
+  port: 9524
